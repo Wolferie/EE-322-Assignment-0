@@ -1,119 +1,155 @@
-# Markdown Cheat Sheet
+# Hoang Nhan Le (Jimmy Le)
+![my portrait](https://www.jimmyle.work/images/IMG_7407.jpeg)
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+### *Computer Engineer | Stevens Institute of Technology*
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-### Heading
-
-# H1
-## H2
-### H3
-
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
+> "I love to explore new technologies that are able to change the world and make our lives better, focusing on innovative projects that challenge my skills and creativity."
 
 ---
 
-### Link
+## 📌 About Me
 
-[Markdown Guide](https://www.markdownguide.org)
+I am a **Junior Computer Engineer** with a strong foundation in *Virtual Reality*, *Machine Learning*, and *Computer Architecture*. I thrive on solving complex problems and enjoy working on projects from concept to deployment.
 
-### Image
+### Key Milestones & Programs
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+1. **LaunchPad@Stevens** — Entrepreneurship and product design
+2. **Co-op Program** — Hands-on multi-term engineering experience
+3. **Stevens RockSAT** — Suborbital space payload systems
 
-## Extended Syntax
+### Quick Stats
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+* **Experience:** `~3` Years
+* **Completed Projects:** `~10+`
+* **Hackathon Wins:** `~02+`
 
-### Table
+---
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+## 💡 Interests & Hobbies
 
-### Fenced Code Block
+* 🕹️ **Gaming** & 🎧 **Music**
+* 🐾 **Cosplay** & 🚶 **Outdoors**
+* 🤖 **Robotics** & ⚙️ **VR / XR**
+* 🔬 **Electronics Prototyping & Tinkering**
+* 🚀 **Space Rockets** & ✨ **Astronomy**
+
+---
+
+## 💼 Professional Experience
+
+### Research Assistant in AI Security of AR/VR
+
+**Stevens Institute of Technology — IntelliSys Lab** | *Jan 2026 – Present*
+
+* Researched and reported on security and privacy within XR environments.
+* Developed custom hardware prototypes based on empirical research.
+* Collaborated on multi-institutional research publications.
+
+### Hardware / Software Intern
+
+**Black Flow Reality** | *May 2026 – July 2026*
+
+* Developed XR headset software, Web3 Metaverse modules, and AI/ML pipelines.
+* Engineered a custom internal cooling system for headsets.
+* Integrated electroencephalogram (`EEG`) sensors to analyze brainwaves.
+
+### Digital Health Product & UX Research Intern
+
+**Nutriswell** | *March 2026 – May 2026*
+
+* Built complex algorithmic matching for mobile user health recommendations.
+* Developed and optimized client-facing web portals.
+
+---
+
+## 🎓 Academic Leadership & Education
+
+### Stevens Institute of Technology
+
+*B.S. in Computer Engineering* | *Sept 2024 – May 2028*
+
+* **GPA:** `3.8 / 4.0`
+* **Focus Areas:** Machine Learning, Embedded Systems, and Computer Architecture
+
+### Leadership & Clubs
+
+* **Founder & President** — Stevens Furry Club *(Feb 2025 – Present)*
+* Built a stigma-free community, directed club finances, and organized large-scale student events.
+
+
+* **President** — Game Development Club / Hack Club *(2023 – May 2024)*
+* Directed coding workshops and hackathons in partnership with Hack Club.
+
+
+
+---
+
+## 🛠️ Featured Technical Projects
+
+### 1. IoT / Autonomous Water Plant Machine
+
+*Autonomous Water Planting Competition Champions*
+
+* **Summary:** Developed a low-power automated irrigation system using sensor telemetry and cloud sync.
+* **Key Architecture:**
+```text
+[Sensors: Soil Moisture + DHT + Light] ──> [ESP32 Controller] ──MQTT──> [Cloud Dashboard]
+                                                  │
+                                           [Submersible Pump]
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
 
-### Footnote
 
-Here's a sentence with a footnote. [^1]
+* **Technologies:** `Arduino`, `C++`, `ESP32`, `MQTT`, `Capacitive Moisture Sensor`, `DHT`
 
-[^1]: This is the footnote.
+### 2. Autonomous Navigation Boat
 
-### Heading ID
+*Gallois Autonomous Competition Champions*
 
-### My Great Heading {#custom-id}
+* **Summary:** Engineered a scaled autonomous boat utilizing real-time pose estimation and motor vectoring.
+* **Technologies:** `Arduino IDE`, `C++`, `MQTT`, `ESP32`, `MPU-6050 IMU`, `OLED Display`
 
-### Definition List
+### 3. Fungi Discord AI Music Bot
 
-term
-: definition
+*Top 3 Winner — Fungi Hackathon*
 
-### Strikethrough
+* **Summary:** Built an AI-driven Discord music bot analyzing chat sentiment to dynamically recommend matching songs.
+* **Technologies:** `Python`, `Discord.py`, `Fungi API`, `YouTube Data API`
 
-~~The world is flat.~~
+---
 
-### Task List
+## 🚀 Entrepreneurial Ventures
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+### 🧊 Suitcool
 
-### Emoji
+*Hoboken, NJ | Spring 2025*
 
-That is so funny! :joy:
+* Active wearable active liquid-cooling vest designed for cosplayers and mascot performers.
+* Managed prototyping iterations featuring embedded micro-pumps, manifolds, and 3D-printed housings.
+* **Stack:** `ESP32`, `Thermal Sensors`, `Liquid Cooling Loop`, `SolidWorks CAD`
 
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+### 💰 Voca
 
-### Highlight
+*Hoboken, NJ | Fall 2025*
 
-I need to highlight these ==very important words==.
+* Agentic AI personal finance app designed to minimize cognitive friction in expense tracking.
+* **Stack:** `React Native`, `TypeScript`, `Agentic AI / LLMs`, `Behavioral UX`
 
-### Subscript
+---
 
-H~2~O
+## 🧰 Skills Matrix
 
-### Superscript
+| Category | Technologies & Tools |
+| --- | --- |
+| **Languages** | `C`, `C++`, `Python`, `Java`, `JavaScript`, `TypeScript` |
+| **Hardware & Prototyping** | `ESP32`, Microcontrollers, PCB Design, Soldering, Sensors (`IMU`, `Soil`, `DHT`) |
+| **Software & Frameworks** | `Linux / Unix`, `Git / GitHub`, `SolidWorks`, `Arduino IDE`, `MQTT` |
 
-X^2^
+---
+
+## 📬 Contact & Links
+
+* 📧 **Email:** [nhanlehoang27@gmail.com](https://www.google.com/search?q=mailto%3Anhanlehoang27%40gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/jimmy-le-sit](https://www.linkedin.com/in/jimmy-le-sit)
+* 🐙 **GitHub:** [github.com/Wolferie](https://github.com/Wolferie)
+* 📍 **Location:** Hoboken, NJ
